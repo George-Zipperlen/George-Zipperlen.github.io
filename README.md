@@ -2,7 +2,7 @@
 
 George Zipperlen's home page
 
-- A sandbox to play with HTML, DOM, and CSS. 
+- A sandbox to play with HTML, DOM, and CSS.  
   No JavaScript.  
   Too many languages in my toolkit, need to concentrate on Python.
 
@@ -15,8 +15,8 @@ George Zipperlen's home page
     - major projects
     - education
     
-    - assemble into .html for display 
-    - assemble into .doc for printing and distribution.
+  - assemble into .html for display 
+  - assemble into .doc for printing and distribution.
 
   - This will store the resume in one place, and make it much easier to maintain.  
   - The individual pieces can be used for Profile pages on StackOverflow, LinkedIn, etc.
